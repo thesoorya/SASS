@@ -1,0 +1,19 @@
+.btn{
+    padding: 8px 20px;
+    border: none;
+    transition: .2s;
+}
+
+.btn:hover{
+    background-color: rgb(226, 226, 226);
+}
+
+.btn-primary{
+    background-color: steelblue;
+}
+.btn-secondary{
+    background-color: darkblue;
+}
+.btn-info{
+    background-color: lightblue;
+}
